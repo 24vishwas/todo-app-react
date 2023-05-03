@@ -1,6 +1,6 @@
 
 import React, {useState} from 'react';
-import image from "C:/Users/91961/OneDrive/Desktop/imgPng.png"
+import image from "../imgPng.png"
 import "./button.css"
 
 export const AddTodoForm = ({addTodo}) => {
